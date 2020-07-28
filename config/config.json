@@ -1,0 +1,18 @@
+
+  {
+    "development": {
+        "bot_token": "xoxb-1159574297270-1167195985637-COTl66Y12OIlHs5XHs38vM9H",
+        "signing_secret": "ed553fccf873aea0856e1894eb43bec7",
+        "node_port": 3000
+    },
+    "testing": {
+      "bot_token": "xoxb-1159574297270-1167195985637-COTl66Y12OIlHs5XHs38vM9H",
+      "signing_secret": "ed553fccf873aea0856e1894eb43bec7",
+      "node_port": 3000
+    },
+    "production": {
+      "bot_token": "",
+      "signing_secret": "",
+      "node_port": 3000
+       }
+}
